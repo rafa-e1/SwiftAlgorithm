@@ -81,7 +81,7 @@ hkr: Compare the Triplets/Easy/8분 38초
   
 | 제목 | Rafa | Hoony |
 |:--|:--:|:--:|
-| [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | []() | []() | <!-- 1페이지 -->
+| [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/Programmers/Lv.0/prg_120804.md) | []() | <!-- 1페이지 -->
 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | []() | []() |
 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | []() | []() |
 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | []() | []() |
@@ -321,7 +321,7 @@ hkr: Compare the Triplets/Easy/8분 38초
   
 | 번호 | 제목 | 난이도 | Rafa | Hoony |
 |:--:|:--|:--:|:--:|:--:|
-| 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | 브론즈 5 | []() | []() |
+| 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/BOJ/01_입출력과사칙연산/boj_2557.md) | []() |
 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | 브론즈 5 | []() | []() |
 | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | 브론즈 5 | []() | []() |
 | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | 브론즈 5 | []() | []() |
