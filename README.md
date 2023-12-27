@@ -6,8 +6,8 @@ Swift 알고리즘 스터디 저장소입니다.
 ## 멤버
 | <img src="https://avatars.githubusercontent.com/u/118424182?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/44988110?v=4" width="150"> |
 |:--:|:--:|
-| [Rafa](https://github.com/devBeomsu) | [Hoony](https://github.com/daehoon0917) |
-|[![Solved.ac Rafael](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)| |
+| [Rafa](https://github.com/rafa-e1) | [Hoony](https://github.com/daehoon0917) |
+|[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)| |
 
 <br>
 
