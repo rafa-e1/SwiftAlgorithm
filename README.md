@@ -7,7 +7,7 @@ Swift 알고리즘 스터디 저장소입니다.
 | <img src="https://avatars.githubusercontent.com/u/118424182?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/44988110?v=4" width="150"> |
 |:--:|:--:|
 | [Rafa](https://github.com/rafa-e1) | [Hoony](https://github.com/daehoon0917) |
-|[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)| |
+|[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)| [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehoon0917)](https://solved.ac/profile/daehoon0917) 
 
 <br>
 
@@ -322,7 +322,7 @@ hkr: Compare the Triplets/Easy/8분 38초
 | 번호 | 제목 | 난이도 | Rafa | Hoony |
 |:--:|:--|:--:|:--:|:--:|
 | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/BOJ/01_입출력과사칙연산/boj_2557.md) | []() |
-| 1000 | [A+B](https://www.acmicpc.net/problem/1000) | 브론즈 5 | []() | []() |
+| 1000 | [A+B](https://www.acmicpc.net/problem/1000) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_1000.md) | []() |
 | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | 브론즈 5 | []() | []() |
 | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | 브론즈 5 | []() | []() |
 | 1008 | [A/B](https://www.acmicpc.net/problem/1008) | 브론즈 5 | []() | []() |
