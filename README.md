@@ -326,7 +326,7 @@ hkr: Compare the Triplets/Easy/8분 38초
 | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_1001.md) | []() |
 | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_10998.md) | []() |
 | 1008 | [A/B](https://www.acmicpc.net/problem/1008) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_1008.md) | []() |
-| 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | 브론즈 5 | []() | []() |
+| 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10869.md) | []() |
 | 10926 | [??!](https://www.acmicpc.net/problem/10926) | 브론즈 5 | []() | []() |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | 브론즈 5 | []() | []() |
 | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | 브론즈 5 | []() | []() |
