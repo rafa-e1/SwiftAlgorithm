@@ -330,7 +330,7 @@ hkr: Compare the Triplets/Easy/8분 38초
 | 10926 | [??!](https://www.acmicpc.net/problem/10926) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10926.md) | []() |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_18108.md) | []() |
 | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10430.md) | []() |
-| 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | 브론즈 3 | []() | []() |
+| 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | 브론즈 3 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_2588.md) | []() |
 | 11382 | [꼬마 정민](https://www.acmicpc.net/problem/11382) | 브론즈 5 | []() | []() |
 | 10171 | [고양이](https://www.acmicpc.net/problem/10171) | 브론즈 5 | []() | []() |
 | 10172 | [개](https://www.acmicpc.net/problem/10172) | 브론즈 5 | []() | []() |
