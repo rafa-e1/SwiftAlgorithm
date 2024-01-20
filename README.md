@@ -342,7 +342,7 @@ hkr: Compare the Triplets/Easy/8분 38초
   
 | 번호 | 제목 | 난이도 | Rafa | Hoony |
 |:--:|:--|:--:|:--:|:--:|
-| 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | 브론즈 5 | []() | []() |
+| 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_1330.md) | []() |
 | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | 브론즈 5 | []() | []() |
 | 2753 | [윤년](https://www.acmicpc.net/problem/2753) | 브론즈 5 | []() | []() |
 | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | 브론즈 5 | []() | []() |
