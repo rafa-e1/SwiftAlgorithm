@@ -321,7 +321,7 @@ hkr: Compare the Triplets/Easy/8분 38초
   
 | 번호 | 제목 | 난이도 | Rafa | Hoony |
 |:--:|:--|:--:|:--:|:--:|
-| 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | 브론즈 5 | [✅]([https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/BOJ/01_입출력과사칙연산/boj_2557.md](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_2557.md)) | []() |
+| 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_2557.md) | []() |
 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_1000.md) | []() |
 | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_1001.md) | []() |
 | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_10998.md) | []() |
