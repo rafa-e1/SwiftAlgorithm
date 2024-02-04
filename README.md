@@ -357,7 +357,7 @@ hkr: Compare the Triplets/Easy/8분 38초
   
 | 번호 | 제목 | 난이도 | Rafa | Hoony |
 |:--:|:--|:--:|:--:|:--:|
-| 2739 | [구구단](https://www.acmicpc.net/problem/2739) | 브론즈 5 | []() | []() |
+| 2739 | [구구단](https://www.acmicpc.net/problem/2739) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_2739.md) | []() |
 | 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | 브론즈 5 | []() | []() |
 | 8393 | [합](https://www.acmicpc.net/problem/8393) | 브론즈 5 | []() | []() |
 | 25304 | [영수증](https://www.acmicpc.net/problem/25304) | 브론즈 4 | []() | []() |
