@@ -347,7 +347,7 @@ hkr: Compare the Triplets/Easy/8분 38초
 | 2753 | [윤년](https://www.acmicpc.net/problem/2753) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2753.md) | []() |
 | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_14681.md) | []() |
 | 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | 브론즈 3 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2884.md) | []() |
-| 2525 | [오븐 시계](https://www.acmicpc.net/problem/2525) | 브론즈 3 | []() | []() |
+| 2525 | [오븐 시계](https://www.acmicpc.net/problem/2525) | 브론즈 3 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2525.md) | []() |
 | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | 브론즈 4 | []() | []() |
 
 </details>
