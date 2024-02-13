@@ -362,7 +362,7 @@ hkr: Compare the Triplets/Easy/8분 38초
 | 8393 | [합](https://www.acmicpc.net/problem/8393) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_8393.md) | []() |
 | 25304 | [영수증](https://www.acmicpc.net/problem/25304) | 브론즈 4 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_25304.md) | []() |
 | 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_25314.md) | []() |
-| 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | 브론즈 4 | []() | []() |
+| 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | 브론즈 4 | [❌](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_15552.md) | []() |
 | 11021 | [A+B - 7](https://www.acmicpc.net/problem/11021) | 브론즈 5 | []() | []() |
 | 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | 브론즈 5 | []() | []() |
 | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | 브론즈 5 | []() | []() |
