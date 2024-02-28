@@ -9,9 +9,16 @@ Swift 알고리즘 스터디 저장소입니다.
 | [Rafa](https://github.com/rafa-e1) | [Hoony](https://github.com/daehoon0917) |
 |[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)| [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehoon0917)](https://solved.ac/profile/daehoon0917) 
 
-<br>
-
-- [ ]
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
 
 
 
