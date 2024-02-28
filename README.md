@@ -9,6 +9,55 @@ Swift 알고리즘 스터디 저장소입니다.
 | [Rafa](https://github.com/rafa-e1) | [Hoony](https://github.com/daehoon0917) |
 |[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)| [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehoon0917)](https://solved.ac/profile/daehoon0917) 
 
+## 진행 상황
+### Rafa
+> 프로그래머스: Lv. 0
+
+| 문제 \ 페이지 | 1 | 2 | 3| 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120804.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 2 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120805.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 3 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120807.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 4 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120803.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 5 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120810.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 6 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 7 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 8 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 9 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 10 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 11 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 12 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 13 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 14 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 16 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 17 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 18 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 19 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+| 20 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
+
+<br>
+
+> 백준
+
+| 단계 \ 문제 | 1 | 2 | 3| 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1 | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() |[🟩]() | [🟩]() |
+| 2 | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | []() | []() | []() | []() |[]() | []() |
+| 3 | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() | [🟩]() |[🟩]() | []() |
+| 4 | [🟩]() | [🟩]() | [🟩]() | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 5 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 6 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 7 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 8 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 9 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 10 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 11 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 12 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 13 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 14 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 15 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+| 16 | []() |[]() | []() | | []() | []() | []() | []() | []() | []() | []() | []() |[]() | []() |
+
 <br>
 
 ### 플랫폼명 규칙
@@ -75,17 +124,14 @@ hkr: Compare the Triplets/Easy/8분 38초
 <!----------------------------------------------------------------------------- 프로그래머스 ----------------------------------------------------------------------------->
 <details>
 <summary>Programmers</summary>
-
-<details>
-<summary>Lv. 0</summary>  
   
-| 제목 | Rafa | Hoony |
-|:--|:--:|:--:|
-| [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120804.md) | []() | <!-- 1페이지 -->
-| [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120805.md) | []() |
-| [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120807.md) | []() |
-| [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120803.md) | []() |
-| [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120810.md) | []() |
+| Lv. 0 | Lv. 1 | Lv. 2 |
+|:--|:--|:--|
+| [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | []() | []() | <!-- 1페이지 -->
+| [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | []() | []() |
+| [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | []() | []() |
+| [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | []() | []() |
+| [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | []() | []() |
 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | []() | []() |
 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | []() | []() |
 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | []() | []() |
@@ -305,283 +351,68 @@ hkr: Compare the Triplets/Easy/8분 38초
 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | []() | []() |
 | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | []() | []() |
 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | []() | []() |
-
-</details>
    
 </details>
-
----
 
 <!----------------------------------------------------------------------------- 백준 ----------------------------------------------------------------------------->
 <details>
 <summary>BOJ</summary>
 
-<details>
-<summary>입출력과 사칙연산</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_2557.md) | []() |
-| 1000 | [A+B](https://www.acmicpc.net/problem/1000) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_1000.md) | []() |
-| 1001 | [A-B](https://www.acmicpc.net/problem/1001) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_1001.md) | []() |
-| 10998 | [A×B](https://www.acmicpc.net/problem/10998) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/라파/BOJ/01_입출력과사칙연산/boj_10998.md) | []() |
-| 1008 | [A/B](https://www.acmicpc.net/problem/1008) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_1008.md) | []() |
-| 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10869.md) | []() |
-| 10926 | [??!](https://www.acmicpc.net/problem/10926) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10926.md) | []() |
-| 18108 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_18108.md) | []() |
-| 10430 | [나머지](https://www.acmicpc.net/problem/10430) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10430.md) | []() |
-| 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | 브론즈 3 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_2588.md) | []() |
-| 11382 | [꼬마 정민](https://www.acmicpc.net/problem/11382) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_11382.md) | []() |
-| 10171 | [고양이](https://www.acmicpc.net/problem/10171) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10171.md) | []() |
-| 10172 | [개](https://www.acmicpc.net/problem/10172) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/boj_10172.md) | []() |
+| 1 | 2 | 3 | 4 |
+|:--|:--|:--|:--|
+| [Hello World](https://www.acmicpc.net/problem/2557) | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [구구단](https://www.acmicpc.net/problem/2739) | [개수 세기](https://www.acmicpc.net/problem/10807) |
+| [A+B](https://www.acmicpc.net/problem/1000) | [시험 성적](https://www.acmicpc.net/problem/9498) | [A+B - 3](https://www.acmicpc.net/problem/10950) | [X보다 작은 수](https://www.acmicpc.net/problem/10871) |
+| [A-B](https://www.acmicpc.net/problem/1001) | [윤년](https://www.acmicpc.net/problem/2753) | [합](https://www.acmicpc.net/problem/8393) | [최소, 최대](https://www.acmicpc.net/problem/10818) |
+| [A×B](https://www.acmicpc.net/problem/10998) | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [영수증](https://www.acmicpc.net/problem/25304) | [최댓값](https://www.acmicpc.net/problem/2562) |
+| [A/B](https://www.acmicpc.net/problem/1008) | [알람 시계](https://www.acmicpc.net/problem/2884) | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | [공 넣기](https://www.acmicpc.net/problem/10810) |
+| [사칙연산](https://www.acmicpc.net/problem/10869) | [오븐 시계](https://www.acmicpc.net/problem/2525) | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [공 바꾸기](https://www.acmicpc.net/problem/10813) |
+| [??!](https://www.acmicpc.net/problem/10926) | [주사위 세개](https://www.acmicpc.net/problem/2480) | [A+B - 7](https://www.acmicpc.net/problem/11021) | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) |
+| [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | - | [A+B - 8](https://www.acmicpc.net/problem/11022) | [나머지](https://www.acmicpc.net/problem/3052) |
+| [나머지](https://www.acmicpc.net/problem/10430) | - | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [바구니 뒤집기](https://www.acmicpc.net/problem/10811) |
+| [곱셈](https://www.acmicpc.net/problem/2588) | - | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [평균](https://www.acmicpc.net/problem/1546) |
+| [꼬마 정민](https://www.acmicpc.net/problem/11382) | - | [A+B - 5](https://www.acmicpc.net/problem/10952) | - |
+| [고양이](https://www.acmicpc.net/problem/10171) | - | [A+B - 4](https://www.acmicpc.net/problem/10951) | - |
+| [개](https://www.acmicpc.net/problem/10172) | - | - | - |
 
-</details>
+| 5 | 6 | 7 | 8 |
+|:--|:--|:--|:--|
+| [문자와 문자열](https://www.acmicpc.net/problem/27866) | [새싹](https://www.acmicpc.net/problem/25083) | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [진법 변환](https://www.acmicpc.net/problem/2745) |
+| [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [최댓값](https://www.acmicpc.net/problem/2566) | [진법 변환 2](https://www.acmicpc.net/problem/11005) |
+| [문자열](https://www.acmicpc.net/problem/9086) | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | [세로읽기](https://www.acmicpc.net/problem/10798) | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) |
+| [아스키 코드](https://www.acmicpc.net/problem/11654) | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | [색종이](https://www.acmicpc.net/problem/2563) | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) |
+| [숫자의 합](https://www.acmicpc.net/problem/11720) | [단어 공부](https://www.acmicpc.net/problem/1157) | - | [벌집](https://www.acmicpc.net/problem/2292) |
+| [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | - | [분수찾기](https://www.acmicpc.net/problem/1193) |
+| [문자열 반복](https://www.acmicpc.net/problem/2675) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | - | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |
+| [단어의 개수](https://www.acmicpc.net/problem/1152) | [너의 평점은](https://www.acmicpc.net/problem/25206) | - | - |
+| [상수](https://www.acmicpc.net/problem/2908) | - | - | - |
+| [다이얼](https://www.acmicpc.net/problem/5622) | - | - | - |
+| [그대로 출력하기](https://www.acmicpc.net/problem/11718) | - | - | - |
 
-<details>
-<summary>조건문</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | 브론즈 5 | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_1330.md) | []() |
-| 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_9498.md) | []() |
-| 2753 | [윤년](https://www.acmicpc.net/problem/2753) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2753.md) | []() |
-| 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_14681.md) | []() |
-| 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | 브론즈 3 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2884.md) | []() |
-| 2525 | [오븐 시계](https://www.acmicpc.net/problem/2525) | 브론즈 3 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2525.md) | []() |
-| 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | 브론즈 4 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8/boj_2480.md) | []() |
+| 9 | 10 | 11 | 12 |
+|:--|:--|:--|:--|
+| [배수와 약수](https://www.acmicpc.net/problem/5086) | [직사각형](https://www.acmicpc.net/problem/27323) | [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | [블랙잭](https://www.acmicpc.net/problem/2798) |
+| [약수 구하기](https://www.acmicpc.net/problem/2501) | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263) | [분해합](https://www.acmicpc.net/problem/2231) |
+| [약수들의 합](https://www.acmicpc.net/problem/9506) | [네 번째 점](https://www.acmicpc.net/problem/3009) | [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264) | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) |
+| [소수 찾기](https://www.acmicpc.net/problem/1978) | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | [알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| [소수](https://www.acmicpc.net/problem/2581) | [대지](https://www.acmicpc.net/problem/9063) | [알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266) | [영화감독 숌](https://www.acmicpc.net/problem/1436) |
+| [소인수분해](https://www.acmicpc.net/problem/11653) | [삼각형 외우기](https://www.acmicpc.net/problem/10101) | [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267) | [설탕 배달](https://www.acmicpc.net/problem/2839) |
+| - | [삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | - |
+| - | [세 막대](https://www.acmicpc.net/problem/14215) | - | - |
 
-</details>
+| 13 | 14 | 15 | 16 |
+|:--|:--|:--|:--|
+| [수 정렬하기](https://www.acmicpc.net/problem/2750) | [숫자 카드](https://www.acmicpc.net/problem/10815) | [최소공배수](https://www.acmicpc.net/problem/1934) | [스택 2](https://www.acmicpc.net/problem/28278) |
+| [대표값2](https://www.acmicpc.net/problem/2587) | [문자열 집합](https://www.acmicpc.net/problem/14425) | [최소공배수](https://www.acmicpc.net/problem/13241) | [제로](https://www.acmicpc.net/problem/10773) |
+| [커트라인](https://www.acmicpc.net/problem/25305) | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [분수 합](https://www.acmicpc.net/problem/1735) | [괄호](https://www.acmicpc.net/problem/9012) |
+| [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [가로수](https://www.acmicpc.net/problem/2485) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) |
+| [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [다음 소수](https://www.acmicpc.net/problem/4134) | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
+| [소트인사이드](https://www.acmicpc.net/problem/1427) | [듣보잡](https://www.acmicpc.net/problem/1764) | [소수 구하기](https://www.acmicpc.net/problem/1929) | [큐 2](https://www.acmicpc.net/problem/18258) |
+| [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [대칭 차집합](https://www.acmicpc.net/problem/1269) | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [카드2](https://www.acmicpc.net/problem/2164) |
+| [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |
+| [단어 정렬](https://www.acmicpc.net/problem/1181) | - | [창문 닫기](https://www.acmicpc.net/problem/13909) | [덱 2](https://www.acmicpc.net/problem/28279) |
+| [나이순 정렬](https://www.acmicpc.net/problem/10814) | - | - | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
+| [좌표 압축](https://www.acmicpc.net/problem/18870) | - | - | [queuestack](https://www.acmicpc.net/problem/24511) |
 
-<details>
-<summary>반복문</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 2739 | [구구단](https://www.acmicpc.net/problem/2739) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_2739.md) | []() |
-| 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_10950.md) | []() |
-| 8393 | [합](https://www.acmicpc.net/problem/8393) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_8393.md) | []() |
-| 25304 | [영수증](https://www.acmicpc.net/problem/25304) | 브론즈 4 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_25304.md) | []() |
-| 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_25314.md) | []() |
-| 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | 브론즈 4 | [❌](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_15552.md) | []() |
-| 11021 | [A+B - 7](https://www.acmicpc.net/problem/11021) | 브론즈 5 | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/BOJ/03_%EB%B0%98%EB%B3%B5%EB%AC%B8/boj_11021.md) | []() |
-| 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | 브론즈 5 | []() | []() |
-| 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | 브론즈 5 | []() | []() |
-| 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | 브론즈 4 | []() | []() |
-| 10952 | [A+B - 5](https://www.acmicpc.net/problem/10952) | 브론즈 5 | []() | []() |
-| 10951 | [A+B - 4](https://www.acmicpc.net/problem/10951) | 브론즈 5 | []() | []() |
-
-</details>
-
-<details>
-<summary>1차원 배열</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 10807 | [개수 세기](https://www.acmicpc.net/problem/10807) | 브론즈 5 | []() | []() |
-| 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | 브론즈 5 | []() | []() |
-| 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | 브론즈 3 | []() | []() |
-| 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | 브론즈 3 | []() | []() |
-| 10810 | [공 넣기](https://www.acmicpc.net/problem/10810) | 브론즈 3 | []() | []() |
-| 10813 | [공 바꾸기](https://www.acmicpc.net/problem/10813) | 브론즈 2 | []() | []() |
-| 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | 브론즈 5 | []() | []() |
-| 3052 | [나머지](https://www.acmicpc.net/problem/3052) | 브론즈 2 | []() | []() |
-| 10811 | [바구니 뒤집기](https://www.acmicpc.net/problem/10811) | 브론즈 2 | []() | []() |
-| 1546 | [평균](https://www.acmicpc.net/problem/1546) | 브론즈 1 | []() | []() |
-
-</details>
-
-<details>
-<summary>문자열</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 27866 | [문자와 문자열](https://www.acmicpc.net/problem/27866) | 브론즈 5 | []() | []() |
-| 2743 | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 브론즈 5 | []() | []() |
-| 9086 | [문자열](https://www.acmicpc.net/problem/9086) | 브론즈 5 | []() | []() |
-| 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | 브론즈 5 | []() | []() |
-| 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | 브론즈 4 | []() | []() |
-| 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | 브론즈 2 | []() | []() |
-| 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | 브론즈 2 | []() | []() |
-| 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | 브론즈 2 | []() | []() |
-| 2908 | [상수](https://www.acmicpc.net/problem/2908) | 브론즈 2 | []() | []() |
-| 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | 브론즈 2 | []() | []() |
-| 11718 | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | 브론즈 5 | []() | []() |
-
-</details>
-
-<details>
-<summary>심화 1</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 25083 | [새싹](https://www.acmicpc.net/problem/25083) | 브론즈 5 | []() | []() |
-| 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | 브론즈 5 | []() | []() |
-| 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | 브론즈 3 | []() | []() |
-| 10988 | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 브론즈 2 | []() | []() |
-| 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | 브론즈 1 | []() | []() |
-| 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | 실버 5 | []() | []() |
-| 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 실버 5 | []() | []() |
-| 25206 | [너의 평점은](https://www.acmicpc.net/problem/25206) | 실버 5 | []() | []() |
-
-</details>
-
-<details>
-<summary>2차원 배열</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 2738 | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | 브론즈 5 | []() | []() |
-| 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | 브론즈 3 | []() | []() |
-| 10798 | [세로읽기](https://www.acmicpc.net/problem/10798) | 브론즈 1 | []() | []() |
-| 2563 | [색종이](https://www.acmicpc.net/problem/2563) | 실버 5 | []() | []() |
-
-</details>
-
-<details>
-<summary>일반 수학 1</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 2745 | [진법 변환](https://www.acmicpc.net/problem/2745) | 브론즈 2 | []() | []() |
-| 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 브론즈 1 | []() | []() |
-| 2720 | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | 브론즈 3 | []() | []() |
-| 2903 | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | 브론즈 3 | []() | []() |
-| 2292 | [벌집](https://www.acmicpc.net/problem/2292) | 브론즈 2 | []() | []() |
-| 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | 실버 5 | []() | []() |
-| 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 브론즈 1 | []() | []() |
-
-</details>
-
-<details>
-<summary>약수, 배수와 소수</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | 브론즈 3 | []() | []() |
-| 2501 | [약수 구하기](https://www.acmicpc.net/problem/2501) | 브론즈 3 | []() | []() |
-| 9506 | [약수들의 합](https://www.acmicpc.net/problem/9506) | 브론즈 1 | []() | []() |
-| 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | 브론즈 2 | []() | []() |
-| 2581 | [소수](https://www.acmicpc.net/problem/2581) | 브론즈 2 | []() | []() |
-| 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | 브론즈 1 | []() | []() |
-
-</details>
-
-<details>
-<summary>기하: 직사각형과 삼각형</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 27323 | [직사각형](https://www.acmicpc.net/problem/27323) | 브론즈 5 | []() | []() |
-| 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | 브론즈 3 | []() | []() |
-| 3009 | [네 번째 점](https://www.acmicpc.net/problem/3009) | 브론즈 3 | []() | []() |
-| 15894 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | 브론즈 3 | []() | []() |
-| 9063 | [대지](https://www.acmicpc.net/problem/9063) | 브론즈 3 | []() | []() |
-| 10101 | [삼각형 외우기](https://www.acmicpc.net/problem/10101) | 브론즈 4 | []() | []() |
-| 5073 | [삼각형과 세 변](https://www.acmicpc.net/problem/5073) | 브론즈 3 | []() | []() |
-| 14215 | [세 막대](https://www.acmicpc.net/problem/14215) | 브론즈 3 | []() | []() |
-
-</details>
-
-<details>
-<summary>시간 복잡도</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 24262 | [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | 브론즈 5 | []() | []() |
-| 24263 | [알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263) | 브론즈 4 | []() | []() |
-| 24264 | [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264) | 브론즈 3 | []() | []() |
-| 24265 | [알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265) | 브론즈 3 | []() | []() |
-| 24266 | [알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266) | 브론즈 3 | []() | []() |
-| 24267 | [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267) | 브론즈 2 | []() | []() |
-| 24313 | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | 실버 5 | []() | []() |
-
-</details>
-
-<details>
-<summary>브루트 포스</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브론즈 2 | []() | []() |
-| 2231 | [분해합](https://www.acmicpc.net/problem/2231) | 브론즈 2 | []() | []() |
-| 19532 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | 브론즈 2 | []() | []() |
-| 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 실버 4 | []() | []() |
-| 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 실버 5 | []() | []() |
-| 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 실버 4 | []() | []() |
-
-</details>
-
-<details>
-<summary>정렬</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 브론즈 2 | []() | []() |
-| 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | 브론즈 2 | []() | []() |
-| 25305 | [커트라인](https://www.acmicpc.net/problem/25305) | 브론즈 2 | []() | []() |
-| 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | 실버 5 | []() | []() |
-| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 브론즈 1 | []() | []() |
-| 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | 실버 5 | []() | []() |
-| 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | 실버 5 | []() | []() |
-| 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | 실버 5 | []() | []() |
-| 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 실버 5 | []() | []() |
-| 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 실버 5 | []() | []() |
-| 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | 실버 2 | []() | []() |
-
-</details>
-
-<details>
-<summary>집합과 맵</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | 실버 5 | []() | []() |
-| 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | 실버 4 | []() | []() |
-| 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 실버 5 | []() | []() |
-| 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 실버 4 | []() | []() |
-| 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | 실버 4 | []() | []() |
-| 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 실버 4 | []() | []() |
-| 1269 | [대칭 차집합](https://www.acmicpc.net/problem/1269) | 실버 4 | []() | []() |
-| 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | 실버 3 | []() | []() |
-
-</details>
-
-<details>
-<summary>약수, 배수와 소수 2</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 1934 | [최소공배수](https://www.acmicpc.net/problem/1934) | 브론즈 1 | []() | []() |
-| 13241 | [최소공배수](https://www.acmicpc.net/problem/13241) | 실버 5 | []() | []() |
-| 1735 | [분수 합](https://www.acmicpc.net/problem/1735) | 실버 3 | []() | []() |
-| 2485 | [가로수](https://www.acmicpc.net/problem/2485) | 실버 4 | []() | []() |
-| 4134 | [다음 소수](https://www.acmicpc.net/problem/4134) | 실버 4 | []() | []() |
-| 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | 실버 3 | []() | []() |
-| 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | 실버 2 | []() | []() |
-| 17103 | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 실버 2 | []() | []() |
-| 13909 | [창문 닫기](https://www.acmicpc.net/problem/13909) | 실버 5 | []() | []() |
-
-</details>
-
-<details>
-<summary>스택, 큐, 덱</summary>  
-  
-| 번호 | 제목 | 난이도 | Rafa | Hoony |
-|:--:|:--|:--:|:--:|:--:|
-| 28278 | [스택 2](https://www.acmicpc.net/problem/28278) | 실버 4 | []() | []() |
-| 10773 | [제로](https://www.acmicpc.net/problem/10773) | 실버 4 | []() | []() |
-| 9012 | [괄호](https://www.acmicpc.net/problem/9012) | 실버 4 | []() | []() |
-| 4949 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 실버 4 | []() | []() |
-| 12789 | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789) | 실버 3 | []() | []() |
-| 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | 실버 4 | []() | []() |
-| 2164 | [카드2](https://www.acmicpc.net/problem/2164) | 실버 4 | []() | []() |
-| 11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | 실버 5 | []() | []() |
-| 28279 | [덱 2](https://www.acmicpc.net/problem/28279) | 실버 4 | []() | []() |
-| 2346 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | 실버 3 | []() | []() |
-| 24511 | [queuestack](https://www.acmicpc.net/problem/24511) | 실버 3 | []() | []() |
-
-</details>
-   
 </details>
 
 ---
