@@ -85,7 +85,7 @@ hkr: Compare the Triplets/Easy/8분 38초
 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120805.md) | []() |
 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [✅](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120807.md) | []() |
 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120803.md) | []() |
-| [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | []() | []() |
+| [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [✅](https://github.com/rafa-e1/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120810.md) | []() |
 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | []() | []() |
 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | []() | []() |
 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | []() | []() |
