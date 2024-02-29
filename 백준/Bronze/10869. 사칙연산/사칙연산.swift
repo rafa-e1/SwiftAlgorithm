@@ -1,0 +1,1 @@
+let a=readLine()!.split{$0==" "}.map{Int($0)!},b=a[0],c=a[1];print(b+c,b-c,b*c,b/c,b%c,separator:"\n")
