@@ -14,6 +14,7 @@ Swift 알고리즘 스터디 저장소입니다.
 ## 진행 상황
 <details>
     <summary>Rafa</summary>
+
 <details>
     <summary>프로그래머스</summary>
    
@@ -42,6 +43,7 @@ Swift 알고리즘 스터디 저장소입니다.
 | 20 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
 
 </details>
+
 <details>
     <summary>백준</summary>
 
