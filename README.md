@@ -23,7 +23,7 @@ Swift 알고리즘 스터디 저장소입니다.
 | 3 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120807.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
 | 4 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120803.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() |
 | 5 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120810.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
-| 6 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
+| 6 | [🟩](https://github.com/Swiftiverse/SwiftAlgorithm/blob/main/%EB%9D%BC%ED%8C%8C/Programmers/Lv.0/prg_120820.md) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
 | 7 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
 | 8 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
 | 9 | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | - |
