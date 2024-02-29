@@ -1,0 +1,1 @@
+let l=readLine()!.split{$0==" "}.map({Int($0)!}),a=l[0],b=l[1],c=l[2];[a+b,(a%c+b%c),a*b,(a%c)*(b%c)].map({print($0%c)})
