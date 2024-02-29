@@ -1,0 +1,1 @@
+var x=readLine()!.split{$0==" "}.map{Int($0)!},m=x[1]+15;print((x[0]+23+m/60)%24,m%60)
