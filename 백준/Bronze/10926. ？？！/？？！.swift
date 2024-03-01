@@ -1,2 +1,3 @@
-let inputName = readLine()!
-print("\(inputName)??!")
+if let inputName = readLine() {
+    print("\(inputName)??!")
+}
