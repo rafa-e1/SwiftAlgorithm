@@ -1,1 +1,15 @@
-let l=readLine()!.split{$0==" "}.map({Int($0)!}),a=l[0],b=l[1],c=l[2];[a+b,(a%c+b%c),a*b,(a%c)*(b%c)].map({print($0%c)})
+if let readLine = readLine() {
+    let numbers = readLine.split(separator: " ").compactMap { Int($0) }
+    if numbers.count == 3 {
+        let (a, b, c) = (numbers[0], numbers[1], numbers[2])
+        let aModC = a % c
+        let bModC = b % c
+        
+        print((a + b) % c)
+        print((aModC + bModC) % c)
+        print((a * b) % c)
+        print((aModC * bModC) % c)
+    } else {
+        print("입력 형식이 올바르지 않습니다.")
+    }
+})
