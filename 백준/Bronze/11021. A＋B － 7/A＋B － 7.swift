@@ -1,0 +1,1 @@
+(1...Int(readLine()!)!).map{print("Case #\($0):",readLine()!.split{$0==" "}.map{Int($0)!}.reduce(0,+))}
