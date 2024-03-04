@@ -1,11 +1,34 @@
-while true {
-    let inputNumbers = readLine()!.split(separator: " ").map { Int($0)! }
-    let a = inputNumbers[0]
-    let b = inputNumbers[1]
+func readInput() -> (Int, Int)? {
+    guard let readLine = readLine()?.split(separator: " "),
+          readLine.count == 2
+    else {
+        fatalError()
+    }
     
-    if a == 0 && b == 0 {
-        break
-    } else {
-        print(a + b)
+    guard let a = Int(readLine[0]),
+          let b = Int(readLine[1])
+    else {
+        fatalError()
+    }
+    
+    return (a, b)
+}
+
+func isExitCondition(_ input: (Int, Int)) -> Bool {
+    return input.0 == 0 && input.1 == 0
+}
+
+func addNumbers(_ input: (Int, Int)) -> Int {
+    return input.0 + input.1
+}
+
+func main() {
+    while true {
+        guard let input = readInput() else { continue }
+        if isExitCondition(input) { break }
+        let result = addNumbers(input)
+        print(result)
     }
 }
+
+main()
