@@ -3,9 +3,11 @@
 import os
 from urllib import parse
 
-HEADER="""# 
+HEADER="""
+# SwiftAlgorithm
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
-# 백준 & 프로그래머스 문제 풀이 목록
+
+## 백준 & 프로그래머스 문제 풀이 목록
 
 """
 
@@ -38,9 +40,9 @@ def main():
             
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
-                content += "## 📚 {}\n".format(directory)
+                content += "### 📚 {}\n".format(directory)
             else:
-                content += "### 🚀 {}\n".format(directory)
+                content += "#### 🚀 {}\n".format(directory)
                 content += "| 문제번호 | 링크 |\n"
                 content += "| ----- | ----- |\n"
             directories.append(directory)
