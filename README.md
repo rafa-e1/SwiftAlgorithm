@@ -1,9 +1,11 @@
-# 
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
-# 백준 & 프로그래머스 문제 풀이 목록
 
-## 📚 백준
-### 🚀 Bronze
+# SwiftAlgorithm
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
+
+## 백준 & 프로그래머스 문제 풀이 목록
+
+### 📚 백준
+#### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/README.md)|
@@ -38,8 +40,8 @@
 |2884. 알람 시계|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/README.md)|
 |8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/README.md)|
 |9498. 시험 성적|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9498.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81/README.md)|
-## 📚 프로그래머스
-### 🚀 0
+### 📚 프로그래머스
+#### 🚀 0
 | 문제번호 | 링크 |
 | ----- | ----- |
 |120803. 두 수의 차|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120803.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%B0%A8/README.md)|
