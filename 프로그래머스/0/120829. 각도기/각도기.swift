@@ -1,7 +1,7 @@
 import Foundation
 
 func solution(_ angle: Int) -> Int {
-    guard angle >= 0 && angle <= 180 else { return 0 }
+    guard angle > 0 && angle <= 180 else { return 0 }
 
     switch angle {
     case 0..<90:
