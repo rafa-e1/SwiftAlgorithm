@@ -1,9 +1,9 @@
 import Foundation
 
 func solution(_ n: Int) -> Int {
-    var result = 0
-    for i in stride(from: 2, through: n, by: 2) {
-        result += i
+    guard n > 0 && n <= 1_000 else {
+        return 0
     }
-    return result
+    let lastEven = n % 2 == 0 ? n : n - 1
+    return (2 + lastEven) * (lastEven / 2) / 2
 }
