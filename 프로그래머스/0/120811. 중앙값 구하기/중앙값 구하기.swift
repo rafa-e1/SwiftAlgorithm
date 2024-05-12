@@ -10,5 +10,5 @@ func solution(_ array: [Int]) -> Int {
     
     let sortedNumber = array.sorted()
     
-    return sortedNumber[array.count / 2]
+    return sortedNumber[sortedNumber.count / 2]
 }
