@@ -1,10 +1,10 @@
 # [level 0] 배열 자르기 - 120833 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120833) 
 
 ### 성능 요약
 
-메모리: 16.2 MB, 시간: 0.04 ms
+메모리: 16.5 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 27일 21:22:27
+2024년 05월 13일 23:15:33
 
 ### 문제 설명
 
