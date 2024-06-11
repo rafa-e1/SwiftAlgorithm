@@ -1,11 +1,18 @@
 import Foundation
 
 func solution(_ array: [Int]) -> [Int] {
-    guard let maxElement = array.max() else { return [] }
+    let isWithinBounds = array.count >= 1 && array.count <= 100
+    let isElementsInRange = array.allSatisfy { 0...1_000 ~= $0 }
+    let hasUniqueElements = Set(array).count == array.count
     
-    if let maxIndex = array.firstIndex(of: maxElement) {
-        return [maxElement, maxIndex]
-    } else { 
-        return [] 
+    guard isWithinBounds, isElementsInRange, hasUniqueElements else {
+        return []
     }
+    
+    if let maxElement = array.max(),
+       let maxIndex = array.firstIndex(of: maxElement) {
+        return [maxElement, maxIndex]
+    }
+    
+    return []
 }
