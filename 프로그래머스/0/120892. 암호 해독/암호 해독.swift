@@ -1,13 +1,9 @@
 import Foundation
 
 func solution(_ cipher: String, _ code: Int) -> String {
-    var result = ""
-    let length = cipher.count
-    
-    for i in stride(from: code - 1, to: length, by: code) {
-        let index = cipher.index(cipher.startIndex, offsetBy: i)
-        result.append(cipher[index])
+    return cipher.enumerated().filter { 
+        ($0.offset + 1) % code == 0 
+    }.reduce("") { 
+        $0 + String($1.element) 
     }
-    
-    return result
 }
