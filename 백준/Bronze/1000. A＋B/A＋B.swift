@@ -1,8 +1,1 @@
-if let readLine = readLine() {
-    let numbers = readLine.split(separator: " ").compactMap { Int($0) }
-    if numbers.count == 2 {
-        print(numbers[0] + numbers[1])
-    } else {
-        print("입력 형식이 올바르지 않습니다.")
-    }
-}
+print(readLine()!.split{$0==" "}.map{Int($0)!}.reduce(0,+))
