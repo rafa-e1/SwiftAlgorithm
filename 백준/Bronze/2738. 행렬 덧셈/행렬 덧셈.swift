@@ -14,14 +14,7 @@ for _ in 0..<n {
     matrixB.append(row)
 }
 
-var resultMatrix = [[Int]]()
-for i in 0..<n {
-    var resultRow = [Int]()
-    for j in 0..<m {
-        resultRow.append(matrixA[i][j] + matrixB[i][j])
-    }
-    resultMatrix.append(resultRow)
-}
+let resultMatrix = zip(matrixA, matrixB).map { zip($0, $1).map { $0 + $1 } }
 
 for row in resultMatrix {
     print(row.map { String($0) }.joined(separator: " "))
