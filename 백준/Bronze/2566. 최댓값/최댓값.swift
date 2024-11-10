@@ -1,24 +1,17 @@
-var matrix = [[Int]]()
+var maxNumber = 0
+var x = 0
+var y = 0
 
-for _ in 1...9 {
-    if let line = readLine()?.split(separator: " ").map({ Int($0)! }) {
-        matrix.append(line)
-    }
-}
-
-var maxValue = matrix[0][0]
-var maxRow = 1
-var maxCol = 1
-
-for i in 0..<9 {
-    for j in 0..<9 {
-        if matrix[i][j] > maxValue {
-            maxValue = matrix[i][j]
-            maxRow = i + 1
-            maxCol = j + 1
+for i in 0...8 {
+    let numbers = readLine()!.split(separator: " ").map { Int($0)! }
+    for j in 0...8 {
+        if numbers[j] > maxNumber {
+            maxNumber = numbers[j]
+            x = i
+            y = j
         }
     }
 }
 
-print(maxValue)
-print("\(maxRow) \(maxCol)")
+print(maxNumber)
+print("\(x + 1) \(y + 1)")
